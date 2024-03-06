@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaruanbu
-- 🌱 I’m currently learning Front-End development.
+- 🌱 I’m  Front-End developer 
 
 <!---
 aaruanbu/aaruanbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
